@@ -29,7 +29,7 @@
 ---
 
 ## 1. 로그인/로그아웃 화면
-![로그인_화면](https://github.com/Pangpyo/Intobook/assets/108651596/f7e43e7d-9c1f-481d-8f60-dfd246d3f957) | ![로그아웃_화면](/uploads/2c2217216cc822a46b17c85c05a08f2f/로그아웃_화면.png)
+![로그인_화면](https://github.com/Pangpyo/Intobook/assets/108651596/f7e43e7d-9c1f-481d-8f60-dfd246d3f957) | ![로그아웃_화면](https://github.com/Pangpyo/Intobook/assets/108651596/e740f869-31fb-4792-bc09-e344fee4acc8)
 ---|---|
 로그인 화면|로그아웃 화면|
 
@@ -45,7 +45,9 @@
 
 ## 2. 닉네임 변경
 
-![닉네임_수정_화면](/uploads/d92bbe068d07173a6ae92c99c3a49e5e/닉네임_수정_화면.png) | ![닉네임_수정_완료_화면](/uploads/38ec295c35bc8c11da7ffa01bbe23332/닉네임_수정_완료_화면.png) |![닉네임_변경_실행화면](/uploads/d6f015bd91c203cadb22dd0f11026e2e/닉네임_변경_실행화면.gif) |
+![닉네임_수정_화면](https://github.com/Pangpyo/Intobook/assets/108651596/ab1a0c8b-dcb1-4745-8c2e-b57aed110bfa) | ![닉네임_수정_완료_화면]![image](https://github.com/Pangpyo/Intobook/assets/108651596/131e0f95-2b88-40f6-9b2c-84a0287478b8)
+ |![닉네임_변경_실행화면](https://github.com/Pangpyo/Intobook/assets/108651596/e8d79d99-c616-43f1-a999-a7b739b7b30f)
+ |
 --- | --- | --- |
 닉네임 수정 화면| 닉네임 수정 완료 화면 | 닉네임 변경 실행화면 |
 닉네임을 수정 할 수 있습니다.| 변경한 이름인 북!빠지다 확인 가능 |  |
