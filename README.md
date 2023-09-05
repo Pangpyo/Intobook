@@ -45,10 +45,7 @@
 
 ## 2. 닉네임 변경
 
-![닉네임_수정_화면](https://github.com/Pangpyo/Intobook/assets/108651596/ab1a0c8b-dcb1-4745-8c2e-b57aed110bfa) | ![닉네임_수정_완료_화면]![image](https://github.com/Pangpyo/Intobook/assets/108651596/131e0f95-2b88-40f6-9b2c-84a0287478b8)
- |![닉네임_변경_실행화면](https://github.com/Pangpyo/Intobook/assets/108651596/e8d79d99-c616-43f1-a999-a7b739b7b30f)
- |
---- | --- | --- |
+![닉네임_수정_화면](https://github.com/Pangpyo/Intobook/assets/108651596/ab1a0c8b-dcb1-4745-8c2e-b57aed110bfa) | ![닉네임_수정_완료_화면](https://github.com/Pangpyo/Intobook/assets/108651596/131e0f95-2b88-40f6-9b2c-84a0287478b8) |![닉네임_변경_실행화면](https://github.com/Pangpyo/Intobook/assets/108651596/e8d79d99-c616-43f1-a999-a7b739b7b30f) | --- | --- | --- |
 닉네임 수정 화면| 닉네임 수정 완료 화면 | 닉네임 변경 실행화면 |
 닉네임을 수정 할 수 있습니다.| 변경한 이름인 북!빠지다 확인 가능 |  |
 
