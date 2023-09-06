@@ -53,14 +53,14 @@
 
 
 ## 3. 메인 페이지 및 책갈피 튜토리얼
-![메인_화면](/uploads/578ece218417aa08a6f444130d6135ba/메인_화면.png) | ![책갈피_튜토리얼_실행화면](/uploads/4ece9620ff3e51fbceec13be3f97f62f/책갈피_튜토리얼_실행화면.gif) |
+![메인_화면](https://github.com/Pangpyo/Intobook/assets/108651596/10396e91-76c0-4aac-b1e9-acc93b6d011a) | ![책갈피_튜토리얼_실행화면](https://github.com/Pangpyo/Intobook/assets/108651596/7f2e997b-f57a-4afa-ada4-6f64941cacba) |
 --- | --- | 
 메인 화면| 책갈피 튜토리얼 실행화면 | 
 위에서 부터 책갈피 ON/OFF 상태표시(고래 아이콘), 블루투스 연결/미연결 표시, 등록된 책 표시 를 나타냅니다.| 책갈피를 처음 이용하는 사람들을 위해 책갈피 튜토리얼을 볼 수 있습니다. | 
 
 
 ## 4. 블루투스 책갈피 연결
-![책갈피_미연결_화면](/uploads/324145e6df99992c4ae35d5310ee52c3/책갈피_미연결_화면.png) | ![페어링_과정_실행_화면](/uploads/278659fb38e8b9d7113f275591594ebe/페어링_과정_실행_화면.gif) |
+![책갈피_미연결_화면](https://github.com/Pangpyo/Intobook/assets/108651596/9089e96e-a7f0-44ab-b5c8-4133c096ac45) | ![페어링_과정_실행_화면](https://github.com/Pangpyo/Intobook/assets/108651596/b9ebda36-fde8-430d-8cad-24c92a7e6526) |
 --- | --- | 
 책갈피 미연결 화면| 페어링 과정 실행 화면 |
 || 블루투스 책갈피를 연결하기 위해서 페어링 중입니다. 페어링을 최초 1번만 실행하면 됩니다. | 
