@@ -110,45 +110,47 @@
 
 
 ## 11. 책 상태 관리
-![읽는_중인_책_상세_화면](/uploads/32c1abaa47f7d5dc7fcbda3c8f8552ce/읽는_중인_책_상세_화면.png) | ![읽기_중단인_책_상세_화면](/uploads/84e073242804bd9f52e19a90d6ef0b14/읽기_중단인_책_상세_화면.png) | ![읽는_완료인_책_상세_화면](/uploads/9be86ab2f870e54c3bd46281757cab7e/읽는_완료인_책_상세_화면.png) |
+![읽는_중인_책_상세_화면](https://github.com/Pangpyo/Intobook/assets/108651596/380bfbc9-d46c-4ecc-8c7e-935b4224ec03) | ![읽기_중단인_책_상세_화면](https://github.com/Pangpyo/Intobook/assets/108651596/744ff453-5753-4fd2-a8c9-b9b19350f7ab) | ![읽는_완료인_책_상세_화면](https://github.com/Pangpyo/Intobook/assets/108651596/0b0ba4af-52e7-4c8f-a6d2-518257e991c7) |
 --- | --- | --- |
 읽는 중인 책 상세 화면| 읽기 중단인 책 상세 화면 | 읽는 완료인 책 상세 화면 |
 
 - 각각의 책의 상태는 총 3가지로,  현재 읽고 있는 책(파랑), 읽다 멈춘 책(노랑), 다 읽은 책( 빨강)입니다.
 
+
+
 ## 12. 책 상세 화면 : 책기록 조회 수정 및 삭제
-![책_기록_화면](/uploads/4024338680928a4870deddd05cfc4943/책_기록_화면.png) | ![책_기록_수정_실행_화면](/uploads/76ee2256235a1844c743731348cae617/책_기록_수정_실행_화면.gif) |
+![책_기록_화면](https://github.com/Pangpyo/Intobook/assets/108651596/36e46945-61cb-4128-9a66-6d61d2350605) | ![책_기록_수정_실행_화면](https://github.com/Pangpyo/Intobook/assets/108651596/9a53908a-b96f-4472-b007-48bc2fe419ab) |
 --- | --- | 
 책 기록 화면 | 책 기록 수정 실행 화면 |
 책갈피를 이용해서 자동으로 쌓인 책 기록들이 쌓여 있는 모습을 볼 수 있고, 내가 등록한 한줄평을 살펴보고, 수정할 수 있습니다.|   |
 
 
 ## 13. 독서 통계
-![독서_통계_캐릭터_화면](/uploads/c32bf3713f3cdaf5c3835b761b76c486/독서_통계_캐릭터_화면.png) | ![독서_통계_기록_화면](/uploads/e69cd5a08e136fe8a5aecd40f581ebd4/독서_통계_기록_화면.png) | ![독서_통계_실행화면](/uploads/89e1fa8a1d538da8ff6ac5d427797f04/독서_통계_실행화면.gif) |
+![독서_통계_캐릭터_화면](https://github.com/Pangpyo/Intobook/assets/108651596/737b90ad-4587-4504-9ffe-dbba873995a5) | ![독서_통계_기록_화면](https://github.com/Pangpyo/Intobook/assets/108651596/8314108e-f4c2-4ea8-95de-c8a00b293e40) | ![독서_통계_실행화면](https://github.com/Pangpyo/Intobook/assets/108651596/c55aa02c-a572-4f94-8689-2cb8869555ab) |
 --- | --- | --- |
 독서 통계 캐릭터 화면| 독서 통계 기록 화면 | 독서 통계 실행화면 |
 나만의 독서 통계를 확인할 수 있습니다. 캐릭터 유형은 총 8가지 유형입니다. 통계에서는 독서와 관련된 여러 통계를 확인할 수 있습니다.| 스크롤을 내리면 지난주와 비교해서 얼만큼 많이 읽었는지 그래프를 통해서도 확인 가능합니다. |  |
 
 
 ## 14. 독서 리마인드 알림
-![독서_알림_화면](/uploads/601a40948960ef295dca67e4512c027a/독서_알림_화면.png) | 
+![독서_알림_화면](https://github.com/Pangpyo/Intobook/assets/108651596/3badc625-1cf3-4550-aade-8de87e8c83f5) | 
 --- | 
 독서 알림 화면| 
 일정 기간 독서를 하지 않았을 경우, 리마인드시키는 알림을 발송합니다.|
 
 
+
 # 📜**프로젝트 산출물**
 요구사항 정의서 | 디자인 시안(Figma) | 
 --- | --- | 
-![요구사항_정의서](/uploads/77617fbad7924cc65432d94952221a6d/요구사항_정의서.png)| ![디자인_시안_Figma_](/uploads/e49c61634e38375e49bd9211e301a097/디자인_시안_Figma_.png) | 
+![요구사항_정의서](https://github.com/Pangpyo/Intobook/assets/108651596/18cabad3-daa1-49a8-af81-34666302b439)| ![디자인_시안_Figma_](https://github.com/Pangpyo/Intobook/assets/108651596/f1c255d9-cf23-49c0-8e9b-ed950fde6bfb) | 
 
 ERD | 아키텍쳐 | 
 --- | --- | 
-![ERD](/uploads/ff8213976039f428b2efce9fa56c0920/ERD.png)| ![아키텍쳐](/uploads/7d95363064418dc04d68bddb5dc165d6/아키텍쳐.png) | 
+![ERD](https://github.com/Pangpyo/Intobook/assets/108651596/55b27dc3-6936-4e5b-8605-28161597a1a0)| ![아키텍쳐](https://github.com/Pangpyo/Intobook/assets/108651596/0c3e449c-bc99-4379-b2e1-a14a0f397233) | 
 
 - API 명세서
-
-![API_명세서](/uploads/d4dcba917228a340439d2007b10cf133/API_명세서.png)
+![API_명세서](https://github.com/Pangpyo/Intobook/assets/108651596/eadf1beb-542a-4b08-9335-d64a16e9987c)
 
 
 # ⚒️**기술스택**
@@ -166,22 +168,23 @@ ERD | 아키텍쳐 |
 
 |책갈피 회로도 | 책 갈피 내부 구조 | 책갈피 완성품 |
 --- | --- | --- |
-![책갈피 회로도](/uploads/e8ddc92d43575a728057af211c633f15/iot.PNG)| ![책_갈피_내부_구조](/uploads/34f46eb5e7b7aba2ccac182915be51a8/책_갈피_내부_구조.png) | ![책갈피_완성품](/uploads/20b469ad9fb09e5a7c60504e172f6bff/책갈피_완성품.png) |
+![iot](https://github.com/Pangpyo/Intobook/assets/108651596/4695164a-7814-4747-8412-1580cabd9129)| ![책_갈피_내부_구조](https://github.com/Pangpyo/Intobook/assets/108651596/265eb69f-b3f5-4928-9265-727d9dccf6a0) | ![책갈피_완성품](https://github.com/Pangpyo/Intobook/assets/108651596/3161cba9-1ad3-4834-94ba-0400412ac3bc) |
+
 
 
 ## **협업 관리**
 그라운드룰 | 노션 기반 진행상황 공유 |
 --- | --- | 
-![그라운드룰](/uploads/29ba45d5506ac7c9ed96ee8a2626c2a3/그라운드룰.PNG)| ![노션_기반_진행상황_공유](/uploads/ab73ef9adb999f4ec4ab5544f62dde3b/노션_기반_진행상황_공유.png) |
+![그라운드룰](https://github.com/Pangpyo/Intobook/assets/108651596/fb8bc8cc-6190-487e-a7d8-2b6ff8bb3ab7)| ![노션_기반_진행상황_공유](https://github.com/Pangpyo/Intobook/assets/108651596/3f30c14f-3c08-4fac-9fc7-f828e4f8cfa5) |
 
 데일리 스크럼 및 주간 회고 | Gitflow 전략 및 통일된 커밋 메시지 |
 --- | --- | 
-![데일리_스크럼_및_주간_회고](/uploads/327de9de36506a814fc5512919598c45/데일리_스크럼_및_주간_회고.png)| ![Gitflow_전략_및_통일된_커밋_메시지](/uploads/731ba8033fd6883cd4bae99933fcb360/Gitflow_전략_및_통일된_커밋_메시지.png) |
+![데일리_스크럼_및_주간_회고](https://github.com/Pangpyo/Intobook/assets/108651596/2532001f-334b-4c16-8b8d-2f495d6022eb)| !![Gitflow_전략_및_통일된_커밋_메시지](https://github.com/Pangpyo/Intobook/assets/108651596/aa837cd7-936c-4853-a008-061bc335166d) |
 
 
 지라를 사용한 일정 관리 | 깃랩을 통한 코드 형상 관리 |
 --- | --- | 
-![지라를_사용한_일정_관리](/uploads/b3a0022c54c5c3f21c874c7343b4ee83/지라를_사용한_일정_관리.png)| ![깃랩을_통한_코드_형상_관리](/uploads/03e8f5fd428d5d55cbd25d47a6e44aa5/깃랩을_통한_코드_형상_관리.png) |
+![지라를_사용한_일정_관리](https://github.com/Pangpyo/Intobook/assets/108651596/a9c05012-fc42-4c10-9b02-887c58de7c31)| ![깃랩을_통한_코드_형상_관리](https://github.com/Pangpyo/Intobook/assets/108651596/8a87ad86-534b-40cc-b61c-8577e73c031c) |
 
 # 📂**프로젝트 구조**
 
