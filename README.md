@@ -60,7 +60,7 @@
 
 
 ## 4. 블루투스 책갈피 연결
-![책갈피_미연결_화면](https://github.com/Pangpyo/Intobook/assets/108651596/9089e96e-a7f0-44ab-b5c8-4133c096ac45) | ![페어링_과정_실행_화면](https://github.com/Pangpyo/Intobook/assets/108651596/1cd57709-23da-4adb-9efb-a5274d75afe7) |
+![책갈피_미연결_화면](https://github.com/Pangpyo/Intobook/assets/108651596/9089e96e-a7f0-44ab-b5c8-4133c096ac45) | ![페어링_과정_실행_화면](https://github.com/Pangpyo/Intobook/assets/108651596/605289c1-c176-462a-be06-7a7c3244ca3b) |
 --- | --- | 
 책갈피 미연결 화면| 페어링 과정 실행 화면 |
 || 블루투스 책갈피를 연결하기 위해서 페어링 중입니다. 페어링을 최초 1번만 실행하면 됩니다. | 
