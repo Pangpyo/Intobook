@@ -97,13 +97,13 @@
 
 
 ## 9. 책 등록 - 바코드 촬영 등록, 기존 책장 등록
-![바코드_촬영_화면](/uploads/21764e1ae3699e0b81304d2685600c96/바코드_촬영_화면.png) | ![바코드로_인식된_책_등록_화면](https://github.com/Pangpyo/Intobook/assets/108651596/d666144b-9490-4abc-a3ca-872e5747b4f4) | ![책장에서_등록_화면](https://github.com/Pangpyo/Intobook/assets/108651596/271aff1d-b84f-421d-b811-2dedef3cf4cc) |
+![바코드_촬영_화면](https://github.com/Pangpyo/Intobook/assets/108651596/48aad964-439e-4804-bf2c-61eb75d00bf3) | ![바코드로_인식된_책_등록_화면](https://github.com/Pangpyo/Intobook/assets/108651596/d666144b-9490-4abc-a3ca-872e5747b4f4) | ![책장에서_등록_화면](https://github.com/Pangpyo/Intobook/assets/108651596/271aff1d-b84f-421d-b811-2dedef3cf4cc) |
 --- | --- | --- |
 바코드 촬영 화면| 바코드로 인식된 책 등록 화면 | 책장에서 등록 화면 |
 
 
 ## 10. 나의 책장 : 책 상태 분류/정렬 기능
-![책_상태에_따른_분류_화면](/uploads/8c2c91b6cd041120a5c7a330d5d50b4e/책_상태에_따른_분류_화면.gif) | ![여러_기준에_따른_책_정렬_화면](/uploads/f6dddf2b60363a71772d735ae35a32f5/여러_기준에_따른_책_정렬_화면.gif)| 
+![책_상태에_따른_분류_화면](https://lab.ssafy.com/s09-webmobile2-sub2/S09P12E208/uploads/8c2c91b6cd041120a5c7a330d5d50b4e/%EC%B1%85_%EC%83%81%ED%83%9C%EC%97%90_%EB%94%B0%EB%A5%B8_%EB%B6%84%EB%A5%98_%ED%99%94%EB%A9%B4.gif) | ![여러_기준에_따른_책_정렬_화면](/uploads/f6dddf2b60363a71772d735ae35a32f5/여러_기준에_따른_책_정렬_화면.gif)| 
 --- | --- | 
 책 상태에 따른 분류 화면| 여러 기준에 따른 책 정렬 화면 | 
 책장에서는 이때까지 읽은 책, 읽고 있는 책 등을 확인할 수 있습니다. 책을 클릭하면 각각의 책에 대한 기록을 볼 수 있습니다.| 책은 여러 기준으로 정렬할 수 있습니다. 등록순, 저자순, 제목순, 진행률 순으로 정렬 가능합니다. |
