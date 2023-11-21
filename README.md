@@ -29,7 +29,7 @@
 ---
 
 ## 1. 로그인/로그아웃 화면
-![image](https://github.com/Pangpyo/Intobook/assets/108651596/828c379a-f12f-43b7-8e48-d2dfb1e070b7) | ![image](https://github.com/Pangpyo/Intobook/assets/108651596/20fcdd78-9a1b-41d4-bb32-2fa9910898b7)
+![로그인_화면](https://github.com/Pangpyo/Intobook/assets/108651596/f7e43e7d-9c1f-481d-8f60-dfd246d3f957) | ![로그아웃_화면](https://github.com/Pangpyo/Intobook/assets/108651596/e740f869-31fb-4792-bc09-e344fee4acc8)
 ---|---|
 로그인 화면|로그아웃 화면|
 
